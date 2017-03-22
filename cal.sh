@@ -11,6 +11,7 @@ echo "1.Addition"
 echo "2.Subtraction"
 echo "3.Multiplication"
 echo "4.Division"
+echo "myname"
 echo "Enter your choice"
 read ch
 case $ch in
